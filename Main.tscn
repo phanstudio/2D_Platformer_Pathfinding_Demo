@@ -203,6 +203,7 @@ visible = false
 position = Vector2(268, 175)
 zoom = Vector2(2, 2)
 
-[node name="Player" parent="." instance=ExtResource("3")]
+[node name="Player" parent="." node_paths=PackedStringArray("path_finder") instance=ExtResource("3")]
 position = Vector2(150.419, 289.458)
 script = ExtResource("4")
+path_finder = NodePath("../Pathfinder")

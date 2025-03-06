@@ -1,11 +1,11 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1741178084
+::res://::1741181627
 debug.log::TextFile/TextFile::-1::1741176850::0::1::::<><><>0<>0<><>::
-default_env.tres::Environment::2440092420938686821::1741178036::0::1::::<><><>0<>0<><>::
+default_env.tres::Environment::2440092420938686821::1741179395::0::1::::<><><>0<>0<><>::
 face.tscn::PackedScene/PackedScene::-1::1741176992::0::1::::<><><>0<>0<><>::res://icon.png
 firstTileset.png::CompressedTexture2D/CompressedTexture2D::7450003921347644477::1741176850::1741177029::1::::<><><>0<>0<>beb46ca71f5e3df1f1fc50605d847603<>res://.godot/imported/firstTileset.png-5359981545dbc63aa5b94230d4081bdc.ctex::
 icon.png::CompressedTexture2D/CompressedTexture2D::3199497282714300125::1741176850::1741177029::1::::<><><>0<>0<>d1368346590e2ecb4791dfbf8be61c45<>res://.godot/imported/icon.png-487276ed1e3a0c39cad0279d744ee560.ctex::
-Main.tscn::PackedScene::3954246519440233797::1741178036::0::1::::<><><>0<>0<><>::uid://dee3qgnvrpuw0::::res://firstTileset.png<>uid://nd7u71mi1qva::::res://Pathfinder.gd<>res://Player.tscn<>uid://bp5e8n48a3rf4::::res://Player.gd
-Pathfinder.gd::GDScript::920628481672301402::1741177909::0::1::::<>Node2D<><>0<>0<><>::
-Player.gd::GDScript::3501487199158676811::1741177628::0::1::::<>CharacterBody2D<><>0<>0<><>::
+Main.tscn::PackedScene::3954246519440233797::1741179395::0::1::::<><><>0<>0<><>::uid://dee3qgnvrpuw0::::res://firstTileset.png<>uid://nd7u71mi1qva::::res://Pathfinder.gd<>res://Player.tscn<>uid://bp5e8n48a3rf4::::res://Player.gd
+Pathfinder.gd::GDScript::920628481672301402::1741179395::0::1::::<>Node2D<><>0<>0<><>::
+Player.gd::GDScript::3501487199158676811::1741179173::0::1::::<>CharacterBody2D<><>0<>0<><>::
 Player.tscn::PackedScene/PackedScene::-1::1741176992::0::1::::<><><>0<>0<><>::res://icon.png
